@@ -3,8 +3,6 @@ public class Shape {
     private boolean filled;
 
     public Shape() {
-        this.color = "green";
-        this.filled = true;
     }
 
     public Shape(String color, boolean filled) {
